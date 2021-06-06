@@ -1,0 +1,55 @@
+body{
+    background-color: #ffe268;
+}
+
+h1{
+    font-size: 7rem;
+}
+
+
+h2{
+    font-size: 5rem;
+}
+
+button{
+    font-size: 2rem;
+    background-color: #9ddfd3;
+}
+
+
+.container{
+    width: 800px;
+    height: 100px;
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -400px;
+    text-align: center;
+}
+
+.increase{
+    width:200px;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid yellow;
+    
+}
+
+
+.decrease{
+    width:200px;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid black;
+    
+}
+
+
+.reset{
+    width:200px;
+    height: 40px;
+    margin: 10px;
+    border: 2px solid gray;
+    
+}
